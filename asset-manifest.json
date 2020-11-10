@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/paperreact/static/css/main.5433c6b9.chunk.css",
+    "main.js": "/paperreact/static/js/main.9531a324.chunk.js",
+    "main.js.map": "/paperreact/static/js/main.9531a324.chunk.js.map",
+    "runtime-main.js": "/paperreact/static/js/runtime-main.45f25937.js",
+    "runtime-main.js.map": "/paperreact/static/js/runtime-main.45f25937.js.map",
+    "static/css/2.bbefbc3e.chunk.css": "/paperreact/static/css/2.bbefbc3e.chunk.css",
+    "static/js/2.74d519fd.chunk.js": "/paperreact/static/js/2.74d519fd.chunk.js",
+    "static/js/2.74d519fd.chunk.js.map": "/paperreact/static/js/2.74d519fd.chunk.js.map",
+    "index.html": "/paperreact/index.html",
+    "precache-manifest.62d249171ebc8b98ad78183415333f46.js": "/paperreact/precache-manifest.62d249171ebc8b98ad78183415333f46.js",
+    "service-worker.js": "/paperreact/service-worker.js",
+    "static/css/2.bbefbc3e.chunk.css.map": "/paperreact/static/css/2.bbefbc3e.chunk.css.map",
+    "static/css/main.5433c6b9.chunk.css.map": "/paperreact/static/css/main.5433c6b9.chunk.css.map",
+    "static/js/2.74d519fd.chunk.js.LICENSE.txt": "/paperreact/static/js/2.74d519fd.chunk.js.LICENSE.txt",
+    "static/media/ayo-ogunseinde-2.jpg": "/paperreact/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/paperreact/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/damir-bosnjak.jpg": "/paperreact/static/media/damir-bosnjak.a6f24e7d.jpg",
+    "static/media/joe-gardner-2.jpg": "/paperreact/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/logo.svg": "/paperreact/static/media/logo.5d5d9eef.svg",
+    "static/media/mike.jpg": "/paperreact/static/media/mike.aab414f7.jpg",
+    "static/media/paper-dashboard.scss?v=1.2.0": "/paperreact/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45f25937.js",
+    "static/css/2.bbefbc3e.chunk.css",
+    "static/js/2.74d519fd.chunk.js",
+    "static/css/main.5433c6b9.chunk.css",
+    "static/js/main.9531a324.chunk.js"
+  ]
+}
