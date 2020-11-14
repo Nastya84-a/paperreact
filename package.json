@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://Nastya84-a.github.io/paperreact",
   "dependencies": {
+    "@react-google-maps/api": "^1.13.0",
     "bootstrap": "4.5.0",
     "chart.js": "2.9.3",
     "history": "4.10.1",

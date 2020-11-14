@@ -31,7 +31,7 @@ const MapWrapper = withScriptjs(
   withGoogleMap((props) => (
     <GoogleMap
       defaultZoom={13}
-      defaultCenter={{ lat: 40.748817, lng: -73.985428 }}
+      defaultCenter={{ lat: 31.9731339, lng: 34.7923279 }}
       defaultOptions={{
         scrollwheel: false, //we disable de scroll over the map, it is a really annoing when you scroll through page
         styles: [
@@ -167,7 +167,7 @@ const MapWrapper = withScriptjs(
         ],
       }}
     >
-      <Marker position={{ lat: 40.748817, lng: -73.985428 }} />
+      <Marker position={{ lat: 31.9731339, lng: 34.7923279 }} />
     </GoogleMap>
   ))
 );
@@ -188,7 +188,7 @@ class Map extends React.Component {
                     style={{ position: "relative", overflow: "hidden" }}
                   >
                     <MapWrapper
-                      googleMapURL="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"
+                      googleMapURL="https://maps.googleapis.com/maps/api/js?keyAIzaSyAECHaexzz14tm8lc9oKPLLnFYH5s-N22Y"
                       loadingElement={<div style={{ height: `100%` }} />}
                       containerElement={<div style={{ height: `100%` }} />}
                       mapElement={<div style={{ height: `100%` }} />}

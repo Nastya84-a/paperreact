@@ -40,13 +40,13 @@ var routes = [
     component: Icons,
     layout: "/admin",
   },
-  {
+/* {
     path: "/maps",
     name: "Maps",
     icon: "nc-icon nc-pin-3",
     component: Maps,
     layout: "/admin",
-  },
+  },*/
   {
     path: "/notifications",
     name: "Notifications",
@@ -73,14 +73,6 @@ var routes = [
     name: "Typography",
     icon: "nc-icon nc-caps-small",
     component: Typography,
-    layout: "/admin",
-  },
-  {
-    pro: true,
-    path: "/upgrade",
-    name: "Upgrade to PRO",
-    icon: "nc-icon nc-spaceship",
-    component: UpgradeToPro,
     layout: "/admin",
   },
 ];

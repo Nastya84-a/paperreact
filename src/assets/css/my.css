@@ -1,0 +1,4 @@
+.navbar-nav .dropdown-item.show .dropdown-menu, .dropdown.show .dropdown-menu, .dropdown-btn.show .dropdown-menu {
+    transform: translate3d(0px, 180px, 0px);
+}
+
